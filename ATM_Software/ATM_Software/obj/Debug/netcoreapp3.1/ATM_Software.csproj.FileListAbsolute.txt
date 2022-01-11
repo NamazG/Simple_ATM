@@ -1,0 +1,13 @@
+/Users/Nako/Projects/ATM_Software/ATM_Software/bin/Debug/netcoreapp3.1/ATM_Software.deps.json
+/Users/Nako/Projects/ATM_Software/ATM_Software/bin/Debug/netcoreapp3.1/ATM_Software.runtimeconfig.json
+/Users/Nako/Projects/ATM_Software/ATM_Software/bin/Debug/netcoreapp3.1/ATM_Software.runtimeconfig.dev.json
+/Users/Nako/Projects/ATM_Software/ATM_Software/bin/Debug/netcoreapp3.1/ATM_Software.dll
+/Users/Nako/Projects/ATM_Software/ATM_Software/bin/Debug/netcoreapp3.1/ATM_Software.pdb
+/Users/Nako/Projects/ATM_Software/ATM_Software/obj/Debug/netcoreapp3.1/ATM_Software.csproj.AssemblyReference.cache
+/Users/Nako/Projects/ATM_Software/ATM_Software/obj/Debug/netcoreapp3.1/ATM_Software.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Nako/Projects/ATM_Software/ATM_Software/obj/Debug/netcoreapp3.1/ATM_Software.AssemblyInfoInputs.cache
+/Users/Nako/Projects/ATM_Software/ATM_Software/obj/Debug/netcoreapp3.1/ATM_Software.AssemblyInfo.cs
+/Users/Nako/Projects/ATM_Software/ATM_Software/obj/Debug/netcoreapp3.1/ATM_Software.csproj.CoreCompileInputs.cache
+/Users/Nako/Projects/ATM_Software/ATM_Software/obj/Debug/netcoreapp3.1/ATM_Software.dll
+/Users/Nako/Projects/ATM_Software/ATM_Software/obj/Debug/netcoreapp3.1/ATM_Software.pdb
+/Users/Nako/Projects/ATM_Software/ATM_Software/obj/Debug/netcoreapp3.1/ATM_Software.genruntimeconfig.cache
